@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <string name="app_name">MakSan Ngalah</string>
+    <string name="gcm_defaultSenderId" translatable="false">293454372405</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWQ_8KRgNWUiJfvw8DEZeaXDG4Te9FE24</string>
+    <string name="google_app_id" translatable="false">1:293454372405:android:5cf7bc9fb155c952b7db7c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWQ_8KRgNWUiJfvw8DEZeaXDG4Te9FE24</string>
+    <string name="google_storage_bucket" translatable="false">makan-app-5804a.appspot.com</string>
+    <string name="project_id" translatable="false">makan-app-5804a</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293454372405",
+    "project_id": "makan-app-5804a",
+    "storage_bucket": "makan-app-5804a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293454372405:android:5cf7bc9fb155c952b7db7c",
+        "android_client_info": {
+          "package_name": "com.skripsikupon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQ_8KRgNWUiJfvw8DEZeaXDG4Te9FE24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
